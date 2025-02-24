@@ -1,5 +1,5 @@
-➡️你好啊，我的朋友！这里是Jeff-bot，欢迎跟我聊天😊
+Hello there, my friend! This is Jeff-bot—welcome to chat with me 😊
 
-——🟢此消息为机器人自动发送🤖
+—— 🟢 This message was sent automatically by the bot 🤖
 
-——💡你所发的消息将自动转发给Jeff，别担心🤗 当看到消息时，ta会第一时间回复你❤️
+—— 💡 Your messages will be automatically forwarded to Jeff. Don't worry 🤗—they'll reply as soon as they see your message ❤️
